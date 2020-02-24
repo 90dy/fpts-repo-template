@@ -1,0 +1,7 @@
+{
+  "name": "yarn-berry-repo-template",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "@yarnpkg/pnpify": "^2.0.0-rc.18"
+  }
+}
