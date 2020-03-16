@@ -1,0 +1,2 @@
+yarn.all:
+	yarn

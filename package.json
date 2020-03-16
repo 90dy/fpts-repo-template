@@ -1,7 +1,8 @@
 {
-  "name": "yarn-berry-repo-template",
+  "name": "yarn-repo-template",
   "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
-    "@yarnpkg/pnpify": "^2.0.0-rc.18"
+    "@yarnpkg/pnpify": "^2.0.0-rc.18",
+    "readme-md-generator": "^1.0.0"
   }
 }
