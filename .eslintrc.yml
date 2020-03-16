@@ -1,0 +1,13 @@
+root: true
+
+extends:
+  - hardcore
+  - hardcore/fp
+  - hardcore/node
+  - prettier
+  - prettier/@typescript-eslint
+  - prettier/babel
+  - prettier/react
+  - prettier/standard
+  - prettier/unicorn
+  - prettier/vue
